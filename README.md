@@ -1,4 +1,4 @@
-# 🎓 Course Recommendation System - Software Engineering Project
+# 🎓 Software-Engineering-Course-Recommendation
 
 This repository contains the complete **Software Engineering** documentation for a "Course Recommendation System". This system was designed to assist Computer Science students in planning their course registrations effectively.
 
